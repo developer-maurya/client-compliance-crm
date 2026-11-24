@@ -1,4 +1,4 @@
-import "../css/reminders.css";
+import "../css/Reminders.css";
 
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
